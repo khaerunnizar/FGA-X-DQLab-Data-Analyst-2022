@@ -17,4 +17,4 @@ Data Analyst merupakan salah satu profesi yang berhubungan erat dengan data. Pen
 
 
 
-#### All Credit Belongs To: DQLab Academy
+#### [All Credit Belongs To: DQLab Academy](https://academy.dqlab.id/)
